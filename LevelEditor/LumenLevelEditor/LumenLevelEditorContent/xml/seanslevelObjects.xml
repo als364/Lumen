@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <XMLDataFileLocation>xml/OutletFront</XMLDataFileLocation>
+    <InitialPosition>15 3.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>4 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Girl</XMLDataFileLocation>
+    <InitialPosition>9 3.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>1 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1800by50WallTop</XMLDataFileLocation>
+    <InitialPosition>1 14</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Plug</XMLDataFileLocation>
+    <InitialPosition>12 7</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>2 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1800by50WallTop</XMLDataFileLocation>
+    <InitialPosition>1 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1300WallTop</XMLDataFileLocation>
+    <InitialPosition>1 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Lamppost</XMLDataFileLocation>
+    <InitialPosition>7 2.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>4 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1300WallTop</XMLDataFileLocation>
+    <InitialPosition>18 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLight</XMLDataFileLocation>
+    <InitialPosition>7 6.5</InitialPosition>
+    <Orientation>-2.443461</Orientation>
+    <On>false</On>
+    <PowerSourceID>3 2 </PowerSourceID>
+    <Wires>
+      <Item>7 6.5
+7.15 6.825
+7.4 7.35
+7.6 7.675
+8 7.85
+8.45 7.85
+9.225 7.7
+9.65 7.35
+10.25 6.925
+11.075 6.175
+11.325 6.175
+11.6 6.5
+11.75 6.7
+12 7
+</Item>
+    </Wires>
+  </Item>
+</LumenContent>

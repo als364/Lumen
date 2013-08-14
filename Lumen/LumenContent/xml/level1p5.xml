@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <floorTextureLocation>images/floor</floorTextureLocation>
+  <ambientLight>1</ambientLight>
+  <initialCourage>10</initialCourage>
+  <levelWidth>30</levelWidth>
+  <levelHeight>30</levelHeight>
+  <levelObjectsLocation>xml/level1p5Objects</levelObjectsLocation>
+  <levelExitsLocation>xml/level1p5Exits</levelExitsLocation>
+</LumenContent>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>
+      <!--TBD-->
+    </Type>
+    <ImgScale>
+      <!--TBD-->
+    </ImgScale>
+    <SpriteFilePath>
+      <!--TBD-->
+    </SpriteFilePath>
+    <spriteWidth>
+      <!--TBD-->
+    </spriteWidth>
+    <spriteHeight>
+      <!--TBD-->
+    </spriteHeight>
+    <Framecount>
+      <!--TBD-->
+    </Framecount>
+    <spriteCenter>
+      <!--TBD-->
+    </spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>true</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>1.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0.0</Restitution>
+
+    <lightConvexHull>
+
+    </lightConvexHull>
+    <physicsConvexHull>
+
+    </physicsConvexHull>
+
+    <intensity>1.0</intensity>
+    <lightRadius>20.0</lightRadius>
+    <checkpoint>false</checkpoint>
+
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

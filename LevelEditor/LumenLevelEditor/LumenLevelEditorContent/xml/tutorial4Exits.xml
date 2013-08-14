@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ExitInstance[]">
+    <Item>
+      <exitLocation>tutorial3</exitLocation>
+      <tlCorner>1.525 16.75</tlCorner>
+      <brCorner>4.475 17.225</brCorner>
+      <id>0</id>
+      <destination>1</destination>
+      <direction>1</direction>
+    </Item>
+    <Item>
+      <exitLocation>level1</exitLocation>
+      <tlCorner>1.525 0.275</tlCorner>
+      <brCorner>4.475 0.65</brCorner>
+      <id>1</id>
+      <destination>0</destination>
+      <direction>0</direction>
+    </Item>
+  </Asset>
+</XnaContent>

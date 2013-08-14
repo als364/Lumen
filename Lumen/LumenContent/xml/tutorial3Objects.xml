@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <XMLDataFileLocation>xml/Crate</XMLDataFileLocation>
+    <InitialPosition>10.4 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>6 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Crate</XMLDataFileLocation>
+    <InitialPosition>9.35 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>5 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1300by50WallTopOrangeYellow</XMLDataFileLocation>
+    <InitialPosition>5 14</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLightSlideable</XMLDataFileLocation>
+    <InitialPosition>16 11.5</InitialPosition>
+    <Orientation>1.570796</Orientation>
+    <On>true</On>
+    <PowerSourceID>4 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Crate</XMLDataFileLocation>
+    <InitialPosition>8.325 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>4 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall600by50WallTopOrangeYellow</XMLDataFileLocation>
+    <InitialPosition>12 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall700by50WallTopOrangeYellow</XMLDataFileLocation>
+    <InitialPosition>2 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1350WallTopOrangeYellow</XMLDataFileLocation>
+    <InitialPosition>1 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1400WallTopOrangeYellow</XMLDataFileLocation>
+    <InitialPosition>18 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+</LumenContent>

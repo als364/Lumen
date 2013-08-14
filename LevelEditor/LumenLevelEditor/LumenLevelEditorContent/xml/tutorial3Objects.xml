@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectInstance[]">
+    <Item>
+      <XMLDataFileLocation>xml/FloodLightSlideable</XMLDataFileLocation>
+      <InitialPosition>16 11.5</InitialPosition>
+      <Orientation>1.57079625</Orientation>
+      <On>true</On>
+      <PowerSourceID>4</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall1300by50WallTop</XMLDataFileLocation>
+      <InitialPosition>5 14</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall100by1350WallTop</XMLDataFileLocation>
+      <InitialPosition>1 1</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall700by50WallTop</XMLDataFileLocation>
+      <InitialPosition>2 0.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall600by50WallTop</XMLDataFileLocation>
+      <InitialPosition>12 0.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall100by1400WallTop</XMLDataFileLocation>
+      <InitialPosition>18 0.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+  </Asset>
+</XnaContent>

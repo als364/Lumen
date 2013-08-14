@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <floorTextureLocation>images/tenttexture_spangles_001</floorTextureLocation>
+  <ambientLight>1</ambientLight>
+  <initialCourage>10</initialCourage>
+  <levelWidth>30</levelWidth>
+  <levelHeight>30</levelHeight>
+  <levelObjectsLocation>xml/boxblockObjects</levelObjectsLocation>
+  <levelExitsLocation>xml/boxblockExits</levelExitsLocation>
+</LumenContent>

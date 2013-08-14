@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>2</Type>
+    <ImgScale>100</ImgScale>
+    <SpriteFilePath>images/girlwalking</SpriteFilePath>
+    <spriteWidth>300</spriteWidth>
+    <spriteHeight>300</spriteHeight>
+    <Framecount>1</Framecount>
+    <spriteCenter>150 270</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>1.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0.0</Restitution>
+    <Facing>0 1</Facing>
+    
+    <lightConvexHull>
+      100 250
+      100 290
+      200 290
+      200 250
+    </lightConvexHull>
+    <physicsConvexHull>
+      100 250
+      100 290
+      200 290
+      200 250
+    </physicsConvexHull>
+    <intensity>0.0</intensity>
+    <lightRadius>0.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

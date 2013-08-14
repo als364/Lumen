@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Type>0</Type>
+  <ImgScale>100</ImgScale>
+  <SpriteFilePath>images/walls/Wall1000by250WallTop</SpriteFilePath>
+  <spriteWidth>1000</spriteWidth>
+  <spriteHeight>250</spriteHeight>
+  <Framecount>1</Framecount>
+  <spriteCenter>50 25</spriteCenter>
+  <CanSlide>false</CanSlide>
+  <CanRotate>false</CanRotate>
+  <IsSwitch>false</IsSwitch>
+  <IsPlug>false</IsPlug>
+  <isOutlet>false</isOutlet>
+  <CastsShadows>false</CastsShadows>
+  <Density>1000</Density>
+  <Friction>1</Friction>
+  <Restitution>0</Restitution>
+  <lightConvexHull>0 0
+
+0 250
+
+1000 250
+
+1000 0
+
+</lightConvexHull>
+  <physicsConvexHull>0 0
+
+0 250
+
+1000 250
+
+1000 0
+
+</physicsConvexHull>
+  <intensity>0</intensity>
+  <lightRadius>0</lightRadius>
+  <checkpoint>false</checkpoint>
+  <invisibleHulls />
+</LumenContent>

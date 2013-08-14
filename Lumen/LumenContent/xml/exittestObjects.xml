@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectInstance[]">
+    <Item>
+      <XMLDataFileLocation>xml/Lamppost</XMLDataFileLocation>
+      <InitialPosition>6 6.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>true</On>
+      <PowerSourceID>1</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/Lamppost</XMLDataFileLocation>
+      <InitialPosition>18.375 4.125</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+  </Asset>
+</XnaContent>

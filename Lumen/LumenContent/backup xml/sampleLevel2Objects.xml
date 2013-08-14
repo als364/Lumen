@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="MyDataTypes.ObjectInstance[]">
+    <Item>
+      <XMLDataFileLocation>xml/Girl</XMLDataFileLocation>
+      <InitialPosition>35 28</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LampPost</XMLDataFileLocation>
+      <InitialPosition>35 30</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/FloodLight</XMLDataFileLocation>
+      <InitialPosition>35 18</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LampPost</XMLDataFileLocation>
+      <InitialPosition>30 8</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 1</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 2</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 3</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 4</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 5</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 6</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 7</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 8</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 9</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 10</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 11</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 12</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 13</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 14</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 15</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 16</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 17</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 18</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 19</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/LeftWall</XMLDataFileLocation>
+      <InitialPosition>25 20</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 1</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 2</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 3</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 4</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 5</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 6</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 7</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 8</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 9</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 10</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 11</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 12</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 13</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 14</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 15</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 16</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 17</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 18</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 19</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/RightWall</XMLDataFileLocation>
+      <InitialPosition>45 20</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>25 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>26 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>27 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>28 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>29 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>30 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>31 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>32 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>33 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>34 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>35 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>36 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>37 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>38 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>42 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>43 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>44 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>45 0</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>25 20</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>26 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>27 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>28 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>29 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>30 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>31 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>32 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>33 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>37 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>38 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>39 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>40 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>41 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>42 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>43 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>44 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+    <Item>
+      
+      <XMLDataFileLocation>xml/BackWall</XMLDataFileLocation>
+      <InitialPosition>45 25</InitialPosition>
+      <Orientation>0</Orientation>
+      <PowerSourceID>0</PowerSourceID>
+    </Item>
+  </Asset>
+</XnaContent>

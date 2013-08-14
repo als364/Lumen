@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <XMLDataFileLocation>xml/Girl</XMLDataFileLocation>
+    <InitialPosition>8 9.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>2 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/SpotLightFixed</XMLDataFileLocation>
+    <InitialPosition>7 7.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLightFixed</XMLDataFileLocation>
+    <InitialPosition>15 7</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>1 </PowerSourceID>
+    <Wires />
+  </Item>
+</LumenContent>

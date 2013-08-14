@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>100</ImgScale>
+    <SpriteFilePath>images/lamppost</SpriteFilePath>
+    <spriteWidth>615</spriteWidth>
+    <spriteHeight>876</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>334 567</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>0.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0.0</Restitution>
+
+    <lightConvexHull>
+      
+    </lightConvexHull>
+    <physicsConvexHull>
+      474 562
+      428 484
+      328 460
+      240 490
+      204 565
+      228 660
+      337 687
+      429 652
+    </physicsConvexHull>
+    <intensity>1.0</intensity>
+    <lightRadius>20.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

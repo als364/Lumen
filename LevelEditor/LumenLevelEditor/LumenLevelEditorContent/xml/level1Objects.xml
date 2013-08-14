@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectInstance[]">
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>2 12.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>3</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>3 12.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>2</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 11.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>10</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 11</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>8</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/SpotLight</XMLDataFileLocation>
+      <InitialPosition>2 11.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>true</On>
+      <PowerSourceID>14</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall400by50WallTop</XMLDataFileLocation>
+      <InitialPosition>2 17</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall800by50WallTop</XMLDataFileLocation>
+      <InitialPosition>9 17</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/Girl</XMLDataFileLocation>
+      <InitialPosition>6 16</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>1</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 12.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>9</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/FloodLightFixed</XMLDataFileLocation>
+      <InitialPosition>9 12.5</InitialPosition>
+      <Orientation>1.04719758</Orientation>
+      <On>true</On>
+      <PowerSourceID>15</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 10.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>4</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall100by1600WallTop</XMLDataFileLocation>
+      <InitialPosition>17 1</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>2 8.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>13</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall100by1600WallTop</XMLDataFileLocation>
+      <InitialPosition>1 1</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall300by50WallTop</XMLDataFileLocation>
+      <InitialPosition>2 0.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/walls/Wall900by50WallTop</XMLDataFileLocation>
+      <InitialPosition>8 0.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>0</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 9.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>6</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 10</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>5</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 9</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>7</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>3 8.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>12</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+    <Item>
+      <XMLDataFileLocation>xml/CrateFixed</XMLDataFileLocation>
+      <InitialPosition>4 8.5</InitialPosition>
+      <Orientation>0</Orientation>
+      <On>false</On>
+      <PowerSourceID>11</PowerSourceID>
+      <Wires Null="true" />
+    </Item>
+  </Asset>
+</XnaContent>

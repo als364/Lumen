@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <XMLDataFileLocation>xml/SignGrab</XMLDataFileLocation>
+    <InitialPosition>14 8</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>true</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLight</XMLDataFileLocation>
+    <InitialPosition>14 12</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>true</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1200by50WallTopBlue</XMLDataFileLocation>
+    <InitialPosition>2 16</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/SignRotate</XMLDataFileLocation>
+    <InitialPosition>10 2</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>true</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1200by50WallTopBlue</XMLDataFileLocation>
+    <InitialPosition>5 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1500WallTopBlue</XMLDataFileLocation>
+    <InitialPosition>1 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1550WallTopBlue</XMLDataFileLocation>
+    <InitialPosition>17 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+</LumenContent>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <exitLocation>level2</exitLocation>
+    <tlCorner>3.575 28.775</tlCorner>
+    <brCorner>6.425 29.225</brCorner>
+    <id>0</id>
+    <destination>1</destination>
+    <direction>1</direction>
+  </Item>
+  <Item>
+    <exitLocation>level3</exitLocation>
+    <tlCorner>23.575 0.325</tlCorner>
+    <brCorner>26.475 0.675</brCorner>
+    <id>1</id>
+    <destination>0</destination>
+    <direction>0</direction>
+  </Item>
+</LumenContent>

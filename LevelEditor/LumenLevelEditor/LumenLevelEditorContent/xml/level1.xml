@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.LevelDef">
+    <floorTextureLocation>images/floor</floorTextureLocation>
+    <ambientLight>1</ambientLight>
+    <initialCourage>10</initialCourage>
+    <levelWidth>19</levelWidth>
+    <levelHeight>18</levelHeight>
+    <levelObjectsLocation>xml/level1Objects</levelObjectsLocation>
+    <levelExitsLocation>xml/level1Exits</levelExitsLocation>
+  </Asset>
+</XnaContent>

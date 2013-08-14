@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>400</ImgScale>
+    <SpriteFilePath>images/sign_walk</SpriteFilePath>
+    <spriteWidth>1508</spriteWidth>
+    <spriteHeight>1836</spriteHeight>
+    <Framecount>1</Framecount>
+    <spriteCenter>670 1588</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>0.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+
+    <lightConvexHull>
+      0 1835
+      1180 1835
+      1341 1542
+      161 1542
+    </lightConvexHull>
+    <physicsConvexHull>
+      80 1835
+      1261 1835
+      1261 1542
+      80 1542
+    </physicsConvexHull>
+
+    <intensity>1.0</intensity>
+    <lightRadius>.1</lightRadius>
+    <checkpoint>false</checkpoint>
+
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <XMLDataFileLocation>xml/SwitchLeft</XMLDataFileLocation>
+    <InitialPosition>26 26.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>5 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/SwitchLeft</XMLDataFileLocation>
+    <InitialPosition>11 28</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>3 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Lamppost</XMLDataFileLocation>
+    <InitialPosition>3 25.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>true</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/OutletFront</XMLDataFileLocation>
+    <InitialPosition>5 20</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>1 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/Plug</XMLDataFileLocation>
+    <InitialPosition>26 22</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>9 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>1 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall300by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>25 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>28 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall900by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>16 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall300by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>2 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall800by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>8 29</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by950WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>28 19.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall400by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>24 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>28 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1050WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>1 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall600by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>18 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>1 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall200by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>2 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall1100by50WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>4 0.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by650WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>28 13</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1750WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>1 11.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/walls/Wall100by1200WallTopWoodBlueYellow</XMLDataFileLocation>
+    <InitialPosition>28 1</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>0 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLightRotateable</XMLDataFileLocation>
+    <InitialPosition>22 23.5</InitialPosition>
+    <Orientation>-1.396263</Orientation>
+    <On>false</On>
+    <PowerSourceID>7 5 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLightFixed</XMLDataFileLocation>
+    <InitialPosition>11 22.5</InitialPosition>
+    <Orientation>-0.6981317</Orientation>
+    <On>true</On>
+    <PowerSourceID>2 3 </PowerSourceID>
+    <Wires />
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/SpotLightRotateable</XMLDataFileLocation>
+    <InitialPosition>12 10.5</InitialPosition>
+    <Orientation>0.5235988</Orientation>
+    <On>false</On>
+    <PowerSourceID>8 9 </PowerSourceID>
+    <Wires>
+      <Item>12 10.5
+11.8 11.45
+11.625 11.975
+10.825 13.25
+10.15 14.325
+9.15 15.975
+8.7 17.25
+8.2 18.725
+8 20.05
+7.95 21.775
+8.025 22.95
+8.475 23.65
+8.9 24.075
+9.85 24.25
+10.7 24.525
+11.625 24.7
+12.45 25.025
+13.725 25.55
+15.125 26.325
+17.125 26.625
+19 26.65
+20.3 26.275
+21.25 25.375
+21.95 24.975
+22.95 24.225
+23.625 23.675
+24.55 23.025
+25.025 22.675
+26 22
+</Item>
+    </Wires>
+  </Item>
+  <Item>
+    <XMLDataFileLocation>xml/FloodLightRotateable</XMLDataFileLocation>
+    <InitialPosition>18 25.5</InitialPosition>
+    <Orientation>0</Orientation>
+    <On>false</On>
+    <PowerSourceID>4 3 5 </PowerSourceID>
+    <Wires />
+  </Item>
+</LumenContent>

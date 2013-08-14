@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ExitInstance[]">
+    <Item>
+      <exitLocation>lightintenseone</exitLocation>
+      <tlCorner>5.55 0.6</tlCorner>
+      <brCorner>7.475 1.15</brCorner>
+      <id>0</id>
+      <destination>0</destination>
+      <direction>0</direction>
+    </Item>
+  </Asset>
+</XnaContent>

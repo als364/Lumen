@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String[]">
+    <Item>xml/Girl</Item>
+    <Item>xml/Crate</Item>
+    <Item>xml/CrateFixed</Item>
+    <Item>xml/Lamppost</Item>
+
+    <Item>xml/FloodLight</Item>
+    <Item>xml/FloodLightSlideable</Item>
+    <Item>xml/FloodLightRotateable</Item>
+    <Item>xml/FloodLightFixed</Item>
+
+    <Item>xml/SpotLight</Item>
+    <Item>xml/SpotLightSlideable</Item>
+    <Item>xml/SpotLightRotateable</Item>
+    <Item>xml/SpotLightFixed</Item>
+
+    <Item>xml/WallTop</Item>
+    <Item>xml/WallTopBlueYellow</Item>
+    <Item>xml/WallTopWoodBlueYellow</Item>
+    <Item>xml/WallTopOrangeYellow</Item>
+    <Item>xml/WallTopBlue</Item>
+    
+    <Item>xml/SwitchRight</Item>
+    <Item>xml/SwitchLeft</Item>
+
+    <Item>xml/OutletFront</Item>
+    <Item>xml/OutletLeft</Item>
+    <Item>xml/OutletRight</Item>
+    <Item>xml/Plug</Item>
+    
+  </Asset>
+</XnaContent>

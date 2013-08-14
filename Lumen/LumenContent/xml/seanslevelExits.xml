@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <exitLocation>seanslevel</exitLocation>
+    <tlCorner>1.875 1.55</tlCorner>
+    <brCorner>4.175 3.275</brCorner>
+    <id>0</id>
+    <destination>0</destination>
+    <direction>0</direction>
+  </Item>
+</LumenContent>

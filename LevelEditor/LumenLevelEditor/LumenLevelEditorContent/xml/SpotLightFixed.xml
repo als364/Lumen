@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>80</ImgScale>
+    <SpriteFilePath>images/spotlight_fixed</SpriteFilePath>
+    <spriteWidth>113</spriteWidth>
+    <spriteHeight>198</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>58 174</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+    <lightConvexHull>
+      58 279
+      34 315
+      84 315
+    </lightConvexHull>
+    <physicsConvexHull>
+      28 154
+      28 194
+      88 194
+      88 154
+    </physicsConvexHull>
+    <intensity>1.0</intensity>
+    <lightRadius>2.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls>
+      <Item>
+        30 100
+        30 230
+        40 230
+        40 100
+      </Item>
+      <Item>
+        78 230
+        83 230
+        83 100
+        78 100
+      </Item>
+      <Item>
+        0 90
+        0 110
+        113 110
+        113 90
+      </Item>
+      <!--<Item>
+        0 225
+        0 315
+        10 315
+        10 225
+      </Item>
+      <Item>
+        0 225
+        0 235
+        113 235
+        113 225
+      </Item>
+      <Item>
+        103 225
+        103 315
+        113 315
+        113 225
+      </Item>
+      <Item>
+        0 315
+        35 315
+        35 305
+        0 305
+      </Item>
+      <Item>
+        78 315
+        113 315
+        113 305
+        78 305
+      </Item>-->
+    </invisibleHulls>
+  </Asset>
+</XnaContent>

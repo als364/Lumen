@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <exitLocation>boxpuzzle</exitLocation>
+    <tlCorner>23.525 2.325</tlCorner>
+    <brCorner>24.425 4.6</brCorner>
+    <id>1</id>
+    <destination>0</destination>
+    <direction>2</direction>
+  </Item>
+  <Item>
+    <exitLocation>level5</exitLocation>
+    <tlCorner>6.55 21.325</tlCorner>
+    <brCorner>9.4 21.675</brCorner>
+    <id>0</id>
+    <destination>1</destination>
+    <direction>1</direction>
+  </Item>
+</LumenContent>

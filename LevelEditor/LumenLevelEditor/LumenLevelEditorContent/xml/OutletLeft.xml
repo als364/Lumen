@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Type>0</Type>
+  <ImgScale>200</ImgScale>
+  <SpriteFilePath>images/outlet_left</SpriteFilePath>
+  <spriteWidth>441</spriteWidth>
+  <spriteHeight>615</spriteHeight>
+  <Framecount>2</Framecount>
+  <spriteCenter>82 546</spriteCenter>
+  <CanSlide>false</CanSlide>
+  <CanRotate>false</CanRotate>
+  <IsSwitch>false</IsSwitch>
+  <IsPlug>false</IsPlug>
+  <isOutlet>true</isOutlet>
+  <CastsShadows>true</CastsShadows>
+  <Density>0</Density>
+  <Friction>1.0</Friction>
+  <Restitution>0.0</Restitution>
+  <Facing>-1 0</Facing>
+
+  <lightConvexHull>
+    73 534
+    141 611
+    396 614
+    328 534
+  </lightConvexHull>
+  <physicsConvexHull>
+    72 534
+    72 612
+    396 612
+    396 534
+  </physicsConvexHull>
+
+  <intensity>1.0</intensity>
+  <lightRadius>20.0</lightRadius>
+  <checkpoint>false</checkpoint>
+
+  <invisibleHulls></invisibleHulls>
+</XnaContent>

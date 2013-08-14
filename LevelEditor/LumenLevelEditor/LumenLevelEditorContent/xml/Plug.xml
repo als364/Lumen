@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Type>0</Type>
+  <ImgScale>200</ImgScale>
+  <SpriteFilePath>images/plug_rotatable_001</SpriteFilePath>
+  <spriteWidth>900</spriteWidth>
+  <spriteHeight>900</spriteHeight>
+  <Framecount>1</Framecount>
+  <spriteCenter>382 600</spriteCenter>
+  <CanSlide>true</CanSlide>
+  <CanRotate>true</CanRotate>
+  <IsSwitch>false</IsSwitch>
+  <IsPlug>true</IsPlug>
+  <isOutlet>false</isOutlet>
+  <CastsShadows>false</CastsShadows>
+  <Density>1000.0</Density>
+  <Friction>1.0</Friction>
+  <Restitution>0</Restitution>
+
+  <lightConvexHull>
+    306 429
+    208 504
+    169 528
+    208 738
+    306 826
+    316 811
+    681 609
+    597 415
+  </lightConvexHull>
+  <physicsConvexHull>
+    237 457
+    231 777
+    611 819
+    595 411
+    <!--306 429
+    208 504
+    169 528
+    208 738
+    306 826
+    316 811
+    681 609
+    597 415-->
+  </physicsConvexHull>
+
+  <intensity>1.0</intensity>
+  <lightRadius>0</lightRadius>
+  <checkpoint>false</checkpoint>
+
+  <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

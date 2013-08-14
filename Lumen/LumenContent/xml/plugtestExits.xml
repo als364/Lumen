@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <Item>
+    <exitLocation>plugtest</exitLocation>
+    <tlCorner>18.575 28.85</tlCorner>
+    <brCorner>21.4 29.125</brCorner>
+    <id>0</id>
+    <destination>0</destination>
+    <direction>1</direction>
+  </Item>
+  <Item>
+    <exitLocation>plugtest</exitLocation>
+    <tlCorner>13.575 0.275</tlCorner>
+    <brCorner>16.4 0.675</brCorner>
+    <id>1</id>
+    <destination>0</destination>
+    <direction>0</direction>
+  </Item>
+</LumenContent>

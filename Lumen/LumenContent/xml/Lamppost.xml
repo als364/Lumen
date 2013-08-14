@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>140</ImgScale>
+    <SpriteFilePath>images/lamppost_checkpoint_001</SpriteFilePath>
+    <spriteWidth>900</spriteWidth>
+    <spriteHeight>1200</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>430 1115</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+
+
+    <lightConvexHull>
+      401 1076
+      342 1120
+      404 1170
+      464 1167
+      515 1122
+      464 1076
+      <!--
+      367 1086
+      344 1106
+      343 1136
+      363 1157
+      403 1169
+      459 1169
+      493 1157
+      514 1138
+      514 1109
+      495 1087
+      458 1076
+      398 1076-->
+    </lightConvexHull>
+    <physicsConvexHull>
+      401 1076
+      342 1120
+      404 1170
+      464 1167
+      515 1122
+      464 1076
+      <!--367 1086
+      344 1106
+      343 1136
+      363 1157
+      403 1169
+      459 1169
+      493 1157
+      514 1138
+      514 1109
+      495 1087
+      458 1076
+      398 1076-->
+    </physicsConvexHull>
+    <intensity>1.0</intensity>
+    <lightRadius>1.0</lightRadius>
+    <checkpoint>true</checkpoint>
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

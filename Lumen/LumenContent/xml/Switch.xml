@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>0</Type>
+    <ImgScale>200</ImgScale>
+    <SpriteFilePath>images/jackknife_switch_left_off</SpriteFilePath>
+    <spriteWidth>900</spriteWidth>
+    <spriteHeight>900</spriteHeight>
+    <Framecount>1</Framecount>
+    <spriteCenter>382 421</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>true</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>0.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0.0</Restitution>
+
+    <lightConvexHull>
+
+    </lightConvexHull>
+    <physicsConvexHull>
+      
+    </physicsConvexHull>
+    <intensity>1.0</intensity>
+    <lightRadius>20.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

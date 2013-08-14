@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>100</ImgScale>
+    <SpriteFilePath>images/spotlight</SpriteFilePath>
+    <spriteWidth>113</spriteWidth>
+    <spriteHeight>315</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>56 271</spriteCenter>
+    <CanSlide>true</CanSlide>
+    <CanRotate>true</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>1000.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+    <lightConvexHull>
+      58 279
+      34 315
+      84 315
+    </lightConvexHull>
+    <physicsConvexHull>
+      20 265
+      20 315
+      100 315
+      100 265
+    </physicsConvexHull>
+    <intensity>.5</intensity>
+    <lightRadius>20.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls>
+      <Item>
+        0 225
+        0 315
+        10 315
+        10 225
+      </Item>
+      <Item>
+        0 225
+        0 235
+        113 235
+        113 225
+      </Item>
+      <Item>
+        103 225
+        103 315
+        113 315
+        113 225
+      </Item>
+      <Item>
+        0 315
+        35 315
+        35 305
+        0 305
+      </Item>
+      <Item>
+        78 315
+        113 315
+        113 305
+        78 305
+      </Item>
+    </invisibleHulls>
+  </Asset>
+</XnaContent>

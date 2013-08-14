@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>270</ImgScale>
+    <SpriteFilePath>images/floodlight</SpriteFilePath>
+    <spriteWidth>306</spriteWidth>
+    <spriteHeight>648</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>160 222</spriteCenter>
+    <CanSlide>true</CanSlide>
+    <CanRotate>true</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>1000.0</Density>
+    <Friction>10.0</Friction>
+    <Restitution>0.0</Restitution>
+
+    <lightConvexHull>
+      
+    </lightConvexHull>
+    <physicsConvexHull>
+      0 0
+      0 640
+      300 640
+      300 0
+    </physicsConvexHull>
+
+    <intensity>1.0</intensity>
+    <lightRadius>20.0</lightRadius>
+    <checkpoint>false</checkpoint>
+
+    <invisibleHulls>
+      
+      <!--top box-->
+      <Item>0 0 0 10 306 10 306 0</Item>
+      <!--<Item>0</Item> <Item>0</Item>
+      <Item>0</Item> <Item>10</Item>
+      <Item>306</Item> <Item>10</Item>
+      <Item>306</Item> <Item>0</Item>-->
+      
+      
+      <!--left box-->
+      <Item>0 0 0 648 10 648 10 0</Item> 
+      <!--<Item>0</Item>
+      <Item>0</Item> <Item>648</Item>
+      <Item>10</Item> <Item>648</Item>
+      <Item>10</Item> <Item>0</Item>-->
+      
+      
+      <!--bottom box-->
+      <Item>0 638 0 648 306 648 306 638</Item> 
+      <!--<Item>638</Item>
+      <Item>0</Item> <Item>648</Item>
+      <Item>306</Item> <Item>648</Item>
+      <Item>306</Item> <Item> 638</Item>-->
+    </invisibleHulls>
+  </Asset>
+</XnaContent>

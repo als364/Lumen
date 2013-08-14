@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>1</Type>
+    <ImgScale>80</ImgScale>
+    <SpriteFilePath>images/floodlight_fixed</SpriteFilePath>
+    <spriteWidth>113</spriteWidth>
+    <spriteHeight>197</spriteHeight>
+    <Framecount>36</Framecount>
+    <spriteCenter>54 180</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+    <lightConvexHull>
+      58 204
+      34 238
+      84 238
+    </lightConvexHull>
+    <physicsConvexHull>
+      22 195
+      86 195
+      86 165
+      22 165
+    </physicsConvexHull>
+    <intensity>1.0</intensity>
+    <lightRadius>1.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls>
+      <Item>
+        0 122
+        0 210
+        10 210
+        10 122
+      </Item>
+      <Item>
+        0 122
+        0 132
+        113 132
+        113 122
+      </Item>
+      <Item>
+        103 122
+        103 210
+        113 210
+        113 122
+      </Item>
+    </invisibleHulls>
+  </Asset>
+</XnaContent>

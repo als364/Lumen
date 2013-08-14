@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<LumenContent>
+  <floorTextureLocation>images/ground_popcorn_spill_texture</floorTextureLocation>
+  <ambientLight>1</ambientLight>
+  <initialCourage>10</initialCourage>
+  <levelWidth>19</levelWidth>
+  <levelHeight>18</levelHeight>
+  <levelObjectsLocation>xml/boxpuzzleObjects</levelObjectsLocation>
+  <levelExitsLocation>xml/boxpuzzleExits</levelExitsLocation>
+</LumenContent>

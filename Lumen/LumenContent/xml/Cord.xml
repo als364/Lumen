@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset>
+    <!-- TODO: replace this Asset with your own XML asset data. -->
+    <Type>0</Type>
+    <ImgScale>200</ImgScale>
+    <SpriteFilePath>images/cord</SpriteFilePath>
+    <spriteWidth>100</spriteWidth>
+    <spriteHeight>10</spriteHeight>
+    <Framecount>1</Framecount>
+    <spriteCenter>50 5</spriteCenter>
+    <CanSlide>true</CanSlide>
+    <CanRotate>true</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>true</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>false</CastsShadows>
+    <Density>1000.0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+
+    <lightConvexHull>
+      100 10
+      100 0
+      0 0
+      0 10
+    </lightConvexHull>
+    <physicsConvexHull>
+      100 10
+      100 0
+      0 0
+      0 10
+    </physicsConvexHull>
+
+    <intensity>1.0</intensity>
+    <lightRadius>0</lightRadius>
+    <checkpoint>false</checkpoint>
+
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>

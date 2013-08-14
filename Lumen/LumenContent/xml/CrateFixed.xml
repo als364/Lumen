@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.ObjectType">
+    <Type>0</Type>
+    <ImgScale>590</ImgScale>
+    <SpriteFilePath>images/weightedcompanioncrate</SpriteFilePath>
+    <spriteWidth>1800</spriteWidth>
+    <spriteHeight>1800</spriteHeight>
+    <Framecount>1</Framecount>
+    <spriteCenter>391 790</spriteCenter>
+    <CanSlide>false</CanSlide>
+    <CanRotate>false</CanRotate>
+    <IsSwitch>false</IsSwitch>
+    <IsPlug>false</IsPlug>
+    <isOutlet>false</isOutlet>
+    <CastsShadows>true</CastsShadows>
+    <Density>0</Density>
+    <Friction>1.0</Friction>
+    <Restitution>0</Restitution>
+    <lightConvexHull>
+      27 935
+      611 935
+      760 645
+      209 645
+    </lightConvexHull>
+
+    <physicsConvexHull>
+      99 935
+      683 935
+      683 645
+      99 645
+    </physicsConvexHull>
+
+    <intensity>0.0</intensity>
+    <lightRadius>0.0</lightRadius>
+    <checkpoint>false</checkpoint>
+    <invisibleHulls></invisibleHulls>
+  </Asset>
+</XnaContent>
